@@ -1,3 +1,5 @@
+<img src="http://www.hannahsuarez.me/img/the_new_skin.jpg">
+
 # THE NEW SKIN
 # by SHS
 
